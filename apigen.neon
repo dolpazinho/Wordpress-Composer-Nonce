@@ -1,0 +1,19 @@
+destination: docs
+
+source:
+    - src
+
+charset:
+    - UTF-8
+
+main: Tev
+
+title: 3ev Core Wordpress library API
+
+templateTheme: bootstrap
+
+php: false
+
+sourceCode: false
+
+baseUrl: http://3ev.github.io/wordpress-core/

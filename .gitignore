@@ -1,0 +1,13 @@
+# Composer
+
+vendor/*
+composer.lock
+bin/
+
+# NPM
+
+node_modules/
+
+# Misc.
+
+docs/
